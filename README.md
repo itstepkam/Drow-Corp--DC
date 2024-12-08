@@ -22,3 +22,9 @@
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+#### Инструкция
+Кнопка "А" - Делает так что бы оно рисовала;
+Кнопка "В" - Делает так что бы оно не рисовала;
+
+При наклонах - рисует
